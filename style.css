@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:url(train-passenger-train-sbb-db.jpg);
+    background-size: cover;
+    text-align: center;
+}
+h1{
+    margin-top: 20px;
+}
+#count-el{
+    margin: 20px 0px;
+}
+#increment-btn{
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    width: 250px;
+    font-size: larger;
+}
+#save-btn{
+    background-color: rgb(179, 0, 255);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    width: 180px;
+    font-size: larger;
+    margin-top: 15px;
+    
+}
+#save-el{
+    font-weight: bold;
+    font-size: xx-large;
+    padding-top: 15px;
+}
+
